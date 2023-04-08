@@ -18,7 +18,7 @@ let voiceConnection = null;
 let interval = null;
 
 let mp3FilePath = "./metal_pipe.mp3";
-const voiceChannelID = '1091117142910435328';
+const voiceChannelID = '1066923077851697224';
 
 client.on("ready", () => {
     console.log("Logged in!");
