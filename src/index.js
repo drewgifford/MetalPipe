@@ -29,7 +29,7 @@ client.on("ready", () => {
 })
 
 const MIN_TIME = 3;
-const MAX_TIME = 10;
+const MAX_TIME = 5 * 60;
 
 let timeout = null;
 
